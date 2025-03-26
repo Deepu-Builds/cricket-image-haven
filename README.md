@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**GitHub Repository**: [https://github.com/vijaysingh966/cricket-image-haven](https://github.com/vijaysingh966/cricket-image-haven)
+**GitHub Repository**: [https://github.com/Deepu-Builds/cricket-image-haven](https://github.com/Deepu-Builds/cricket-image-haven)
 
 ## How to Edit This Code
 
@@ -14,7 +14,7 @@ If you want to work locally using your own IDE, follow these steps:
 
 ```sh
 # Step 1: Clone the repository using Git
-git clone https://github.com/vijaysingh966/cricket-image-haven.git
+git clone https://github.com/Deepu-Builds/cricket-image-haven
 
 # Step 2: Navigate to the project directory
 cd your-repo-name
@@ -69,8 +69,8 @@ You can deploy this project using **Netlify, Vercel, or GitHub Pages**. Follow t
 
 ## Contact
 
-📧 **Email**: vijaysinghsisodiya966@gmail.com  
-👤 **GitHub**: [@vijaysingh966](https://github.com/vijaysingh966)
+📧 **Email**: dkeer28@gmail.com 
+👤 **GitHub**: [@Deepu-Builds](https://github.com/Deepu-Builds)
 
 Feel free to contribute and star the repository if you like it! 🚀
 
