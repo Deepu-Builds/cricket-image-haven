@@ -196,10 +196,8 @@ const AboutPage = () => {
           
           <div className="grid md:grid-cols-4 gap-6 mb-12">
             {[
-              { name: "Vijay Singh", role: "Founder & Lead Photographer", image: "https://res.cloudinary.com/dv7cxq4fy/image/upload/v1742839373/lisjbaoksqnouscdb0gg.jpg" },
-              { name: "Vijay Singh", role: "Content Director", image: "https://res.cloudinary.com/dv7cxq4fy/image/upload/v1742839373/lisjbaoksqnouscdb0gg.jpg" },
               { name: "Vijay Sing", role: "Chief Technology Officer", image: "https://res.cloudinary.com/dv7cxq4fy/image/upload/v1742839373/lisjbaoksqnouscdb0gg.jpg" },
-              { name: "Vijay Singh", role: "Marketing Lead", image: "https://res.cloudinary.com/dv7cxq4fy/image/upload/v1742839373/lisjbaoksqnouscdb0gg.jpg" },
+              { name: "Vijay Singh", role: "Marketing Lead", image: "https://res.cloudinary.com/dkm356oh0/image/upload/v1743012052/myImage_cce3ti.jpg" },
             ].map((member, index) => (
               <div key={index} className="bg-white dark:bg-gray-800 rounded-lg overflow-hidden shadow-md">
                 <div className="aspect-square overflow-hidden">
