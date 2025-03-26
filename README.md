@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**GitHub Repository**: [https://github.com/Deepu-Builds/cricket-image-haven](https://github.com/Deepu-Builds/cricket-image-heavan)
+**GitHub Repository**: [https://github.com/Deepu-Builds/cricket-image-heavan](https://github.com/Deepu-Builds/cricket-image-heavan)
 
 ## How to Edit This Code
 
